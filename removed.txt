@@ -1,0 +1,6 @@
+    
+    
+p = ['house', 'touse', 'torse', 'terse', 'tease', 'tense', 'cense', 'dense', 'lense', 'mense', 'terce', 'terne', 'perse', 'cease', 'chase', 'fease', 'lease', 'feaze', 'fesse', 'pease', 'leave', 'lyase', 'leash', 'manse', 'sense', 'kerne', 'torte', 'forte', 'porte', 'bouse', 'douse', 'louse', 'mouse', 'rouse', 'souse', 'corse', 'carse', 'copse', 'curse', 'gorse', 'horse', 'goose', 'gorge', 'worse', 'hoise', 'horde', 'horst', 'torsi', 'tarsi', 'torii', 'torsk', 'torso', 'parse', 'parle', 'marse', 'paise', 'parge', 'parve', 'passe', 'pause', 'peace', 'peage', 'peise', 'phase', 'poise', 'prise', 'purse', 'burse', 'nurse', 'pulse', 'puree', 'purge', 'force', 'farce', 'forge', 'forme', 'forth', 'firth', 'forts', 'forty', 'north', 'farts', 'torts', 'borts', 'fonts', 'foots', 'forbs', 'fords', 'fores', 'forks', 'forms', 'morts', 'ports', 'sorts', 'boule', 'bogle', 'joule', 'bowse', 'dowse', 'douce', 'druse', 'loose', 'louie', 'loupe', 'lowse', 'youse', 'moose', 'reuse', 'roose', 'rouge', 'route', 'deuce', 'dolce', 'dowie', 'cruse', 'noise', 'looie', 'noose', 'coupe', 'gouge', 'routh', 'carle', 'cable', 'table']
+
+
+
